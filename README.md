@@ -1,11 +1,29 @@
 # Academic Projects
 This repository features a selection of projects from my Master’s program:
 
-## Python and Analytics Systems Technology
+# Credit Card Default Prediction Analysis(ALY6140)
 
-Date: 12/17/2023
-Focus: Analyzed credit card payment behaviors in Taiwan to assess default prediction methods using diverse datasets.
-Data Management & Big Data
+## Business Questions
+- **Credit Risk:** What factors influence defaults?
+- **Segmentation:** How do spending patterns vary by demographics?
+
+## Dataset Overview
+- **Size:** 30,000 instances
+- **Key Variables:** LIMIT_BAL, AGE, SEX, EDUCATION, MARRIAGE
+
+## Data Cleaning
+- Cleaned 10% of data with missing or erroneous values.
+
+## EDA Insights
+- **Correlation:** Strong relationships in payment and billing amounts.
+
+## Modeling
+- **Logistic Regression:** 78% accuracy.
+- **Decision Tree:** 72% accuracy.
+- **Random Forest:** 82% accuracy (best performer).
+
+## Conclusion
+- Random Forest model provides the best prediction for defaults.
 
 ## Project Report
 ## Electric Vehicle Population Dataset
