@@ -25,9 +25,6 @@ Focus: Analyzed 2015 census data on tree species in New York City to highlight u
 Capstone Project
 
 ## Project: Sneaker Resale Market Analysis for Arbit Company
-# README
-
-## Project Title: Sneaker Price Prediction
 
 ### Introduction
 This project aims to predict the sold prices of sneakers using various features and machine learning techniques.
