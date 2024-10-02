@@ -6,17 +6,13 @@ This repository features a selection of projects from my Master’s program:
 ## Business Questions
 - **Credit Risk:** What factors influence defaults?
 - **Segmentation:** How do spending patterns vary by demographics?
-
 ## Dataset Overview
 - **Size:** 30,000 instances
 - **Key Variables:** LIMIT_BAL, AGE, SEX, EDUCATION, MARRIAGE
-
 ## Data Cleaning
 - Cleaned 10% of data with missing or erroneous values.
-
 ## EDA Insights
 - **Correlation:** Strong relationships in payment and billing amounts.
-
 ## Modeling
 - **Logistic Regression:** 78% accuracy.
 - **Decision Tree:** 72% accuracy.
@@ -26,7 +22,7 @@ This repository features a selection of projects from my Master’s program:
 - Random Forest model provides the best prediction for defaults.
 
 ## Project Report
-## Electric Vehicle Population Dataset
+## Electric Vehicle Population Dataset(Eco Drive)
 Date: 06/30/2023
 Team: Anoushka Hazari, Xuanyu Bao
 Focus: Used big data to analyze factors influencing EV adoption and market trends to support sustainable transportation.
