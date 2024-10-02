@@ -3,22 +3,22 @@ This repository features a selection of projects from my Master’s program:
 
 # Credit Card Default Prediction Analysis(ALY6140)
 
-## Business Questions
+### Business Questions
 - **Credit Risk:** What factors influence defaults?
 - **Segmentation:** How do spending patterns vary by demographics?
-## Dataset Overview
+### Dataset Overview
 - **Size:** 30,000 instances
 - **Key Variables:** LIMIT_BAL, AGE, SEX, EDUCATION, MARRIAGE
-## Data Cleaning
+### Data Cleaning
 - Cleaned 10% of data with missing or erroneous values.
-## EDA Insights
+### EDA Insights
 - **Correlation:** Strong relationships in payment and billing amounts.
-## Modeling
+### Modeling
 - **Logistic Regression:** 78% accuracy.
 - **Decision Tree:** 72% accuracy.
 - **Random Forest:** 82% accuracy (best performer).
 
-## Conclusion
+### Conclusion
 - Random Forest model provides the best prediction for defaults.
 
 ## Project Report
@@ -32,13 +32,13 @@ Focus: Used big data to analyze factors influencing EV adoption and market trend
 Date: 03/30/2024
 Focus: Assessed risks for OtakuGear Emporium, an anime merchandise startup, with a comprehensive risk response plan.
 
-## Communication and Visualization for Data Analytics
+## Communication and Visualization for Data Analytics(Census2 , Census3)
 
 Date: 03/31/2023
 Focus: Analyzed 2015 census data on tree species in New York City to highlight urban tree distribution and benefits.
 Capstone Project
 
-## Project: Sneaker Resale Market Analysis for Arbit Company
+## Project: Sneaker Resale Market Analysis for Arbit Company(BiweeklycapstoneF.ipynb)
 
 ### Introduction
 This project aims to predict the sold prices of sneakers using various features and machine learning techniques.
